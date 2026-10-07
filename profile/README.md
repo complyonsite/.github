@@ -11,3 +11,6 @@ Construction health and safety software for planning work, preparing safety pape
 [Zenodo record and DOI](https://doi.org/10.5281/zenodo.23119639)
 
 [LinkedIn](https://www.linkedin.com/company/complyonsite/) · [Facebook](https://www.facebook.com/complyonsite) · [X](https://x.com/ComplyOnSite) · [Instagram](https://www.instagram.com/complyonsite) · [Pinterest](https://uk.pinterest.com/ComplyOnSite/) · [YouTube](https://www.youtube.com/@complyonsite)
+
+
+[Chrome Web Store](https://chromewebstore.google.com/detail/dehkpmgknpefkohhbhcadhgkfpimniif) · [Microsoft Marketplace](https://marketplace.microsoft.com/en-gb/product/complyonsite.complyonsite)
