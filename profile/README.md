@@ -4,6 +4,12 @@ Construction health and safety software for planning work, preparing safety pape
 
 [ComplyOnSite](https://complyonsite.com/) · [Free tools](https://complyonsite.com/tools) · [Free EWC code finder](https://complyonsite.com/tools/ewc-code-finder)
 
+## RAMS review
+
+[RAMS review tool](https://complyonsite.com/tools/rams-review) — Review a text PDF up to 60 pages, inspect points against their source wording, edit comments and download a PDF review form.
+
+Quick reviews are free: three a day without an account. Full reviews use credits; Pro is £30 a month. The tool does not approve the RAMS or verify conditions on site.
+
 ## EWC waste code dataset
 
 [Download CSV and JSON](https://github.com/complyonsite/ewc-waste-codes-uk) containing 842 UK List of Waste codes, official descriptions, hazardous status and WM3 entry types. Source attribution, methodology and reuse terms are included. Reference data; waste classification still requires assessment and current official guidance.
