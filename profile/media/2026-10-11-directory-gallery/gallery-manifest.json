@@ -1,0 +1,53 @@
+{
+  "size": [
+    1270,
+    760
+  ],
+  "images": [
+    {
+      "order": 1,
+      "png": "01-complyonsite-construction-health-safety-software-tools-1270x760.png",
+      "webp": "01-complyonsite-construction-health-safety-software-tools-1270x760.webp",
+      "title": "ComplyOnSite: construction health and safety software for UK site teams",
+      "caption": "ComplyOnSite helps UK contractors, subcontractors and waste operators with site paperwork: build a RAMS, review one before work starts, fill in waste transfer and consignment notes, and estimate vibration and noise exposure. The screenshot shows part of the public tools page, with the waste and exposure tools.",
+      "alt_text": "ComplyOnSite graphic headed \"Construction health and safety software for UK site teams\", listing Build RAMS (RAMS Builder), Review RAMS (RAMS review), Waste paperwork (transfer and consignment notes) and Exposure tools (HAVS and noise). Below is a screenshot of the ComplyOnSite tools page: a Waste group with cards for the EWC code finder, waste transfer note, hazardous waste consignment note and Defra Receipt of Waste spreadsheet checker, and a Vibration, noise and dust group with the HAVS and noise exposure calculators.",
+      "source_capture": "output/tool-listings/captures/company-tools-public.png"
+    },
+    {
+      "order": 2,
+      "png": "02-rams-builder-risk-assessment-method-statement-1270x760.png",
+      "webp": "02-rams-builder-risk-assessment-method-statement-1270x760.webp",
+      "title": "RAMS Builder: write a RAMS for your job and download the PDF",
+      "caption": "Choose the type of work, fill in the job details and work through the method statement and risk assessment, then download the RAMS as a PDF. No account is needed, and your draft is kept in your browser as you go. The screenshot is the builder's public filled-in example; the company and people in it are fictional.",
+      "alt_text": "ComplyOnSite graphic headed \"Build a RAMS for the job\", with the points no account needed, saves as you go in this browser, and the PDF built on your device. Beside it is a screenshot of a filled-in RAMS example for an electrical job at a workshop in Stockport, with company, site, dates, person in charge and team, then the first method statement steps: set up the work area, isolate and prove dead, check permits before work.",
+      "source_capture": "output/tool-listings/captures/rams-builder-public-example.png"
+    },
+    {
+      "order": 3,
+      "png": "03-rams-review-source-linked-points-1270x760.png",
+      "webp": "03-rams-review-source-linked-points-1270x760.webp",
+      "title": "RAMS review: points to raise, each marked on its page",
+      "caption": "Upload a RAMS PDF, yours or a subcontractor's, and get a list of points for a competent reviewer to raise. Open a point to see the words it comes from highlighted on the page. Three Quick reviews a day are free without an account; Full and Max reviews use credits. RAMS review does not approve a RAMS. The screenshot is the public sample review of an invented scaffolding RAMS.",
+      "alt_text": "ComplyOnSite graphic headed \"Check a RAMS for the points to raise\", noting that each point links to the words on its page, that the tool does not approve the RAMS, and that three Quick reviews a day are free while Full and Max reviews use credits. Below is a screenshot of the sample review of FSL-RAMS-0042 Scaffold to the Rear Elevation: page 2 of the RAMS with two lines highlighted, and the open point \"No rescue plan for the MEWP\", marked Changes needed, asking for the MEWP rescue plan or Appendix C. Other points listed include Exclusion zone has no size and Tie pattern needs checking.",
+      "source_capture": "output/tool-listings/captures/rams-review-public-sample.png"
+    },
+    {
+      "order": 4,
+      "png": "04-waste-transfer-note-phone-signatures-pdf-1270x760.png",
+      "webp": "04-waste-transfer-note-phone-signatures-pdf-1270x760.webp",
+      "title": "Waste transfer note: fill it in, sign on screen, share the PDF",
+      "caption": "Fill in a non-hazardous waste transfer note on your phone, have both parties sign on screen, then share the PDF. Codes found in the EWC code finder can start the note. For England, Wales, Scotland and Northern Ireland, with a hazardous waste consignment note tool alongside. The screenshot is the public filled-in example; the names and numbers are made up.",
+      "alt_text": "ComplyOnSite graphic headed \"Waste transfer notes on your phone\": fill in the note, both parties sign on screen, then share the PDF, for non-hazardous waste in England, Wales, Scotland and Northern Ireland. Points listed: start from codes found in the EWC code finder, a blank template to print, and hazardous waste consignment notes too. Beside it is a screenshot of a waste transfer note example marked EXAMPLE: mixed construction and demolition waste from a kitchen refit, List of Waste code 17 09 04, one 8-yard skip, with the transferor Sam Carter of Example Builders Ltd, SIC code 41202, acting as producer, and the waste hierarchy declaration.",
+      "source_capture": "output/tool-listings/captures/waste-transfer-note-public-example.png"
+    },
+    {
+      "order": 5,
+      "png": "05-havs-calculator-daily-vibration-exposure-1270x760.png",
+      "webp": "05-havs-calculator-daily-vibration-exposure-1270x760.webp",
+      "title": "HAVS calculator: estimate one worker's daily hand-arm vibration",
+      "caption": "Add each tool a worker uses and how long it runs in their hands to estimate their daily hand-arm vibration exposure. In this example, a breaker at HSE's figure of 14 m/s² for one hour gives an HSE estimate of 392 points, with a tool data range of 98 to 648, above HSE's action level. It is an estimate to plan with, not a measurement or a promise that the work is safe. A noise exposure calculator is also available.",
+      "alt_text": "ComplyOnSite graphic headed \"Estimate daily hand-arm vibration\", with an example of a breaker at 14 m/s² for one hour, HSE estimate 392 points with a tool data range of 98 to 648, described as an estimate to plan with, not a safe-use promise. Below is a screenshot of the HAVS calculator: tool 1 is Breaker, time in use 1 hour, HSE estimate 14 m/s². The daily exposure panel reads \"Estimated above HSE's action level\" and \"This estimate could exceed the daily limit\", with a gauge from 0 to the 400 daily limit showing HSE estimate 392 points, tool data range 98 to 648.",
+      "source_capture": "output/tool-listings/captures/havs-calculator-example-392-points.png"
+    }
+  ]
+}
