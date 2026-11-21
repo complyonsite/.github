@@ -1,6 +1,6 @@
 # ComplyOnSite
 
-Construction health and safety software for planning work, preparing safety paperwork and keeping site compliance records.
+ComplyOnSite builds tools for the records people keep on site, from a daily diary and snag list to waste transfer notes and digital waste tracking. This organisation publishes reference data used in construction and waste work, including waste codes and workplace exposure data.
 
 [ComplyOnSite](https://complyonsite.com/) · [Free tools](https://complyonsite.com/tools) · [Free EWC code finder](https://complyonsite.com/tools/ewc-code-finder)
 
